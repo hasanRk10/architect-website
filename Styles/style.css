@@ -208,6 +208,9 @@ footer{
     .features{
         flex-direction: column;
     }
+    .navbar, .banner{
+        background-color: none;
+    }
     .team-img-container,
     .facts-container,
     .sponsor-companies{
